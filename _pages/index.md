@@ -7,7 +7,7 @@ permalink: /
 
 # Hola! 🌱
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
+<p style="padding: 3em 1em; background: #222; border-radius: 4px;">
   This is my attempt at maintaining a digital garden. Through this I hope to capture my thoughts and learnings in various fields.
   <!-- Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration. -->
 </p>
