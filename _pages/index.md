@@ -12,11 +12,13 @@ permalink: /
   <!-- Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p> -->
 
-<p style="font-size:44px" id="greeting">
+<p class="title">
   Welcome into <u>Thought Bol</u><br>
-  <!-- This is a Digital Garden.<br> -->
-  <!-- My name is Mohak. I am a ..... -->
 </p>
+<!-- <h1 class="heading">
+  Welcome into <u>Thought Bol</u><br>
+</h1> -->
+
 <p>
   This is a Digital Garden.<br>
   This garden has been started with the hopes of planting seeds of my thoughts, ideas, plans, actions, findings, learnings, improvements, journey of myself.
@@ -36,6 +38,15 @@ permalink: /
 </p>
 <hr>
 
+
+<h1 class="heading">
+Why I am doing Digital Gardening
+</h1>
+<p>
+Content goes here
+</p>
+
+<hr>
 <p style="font-size:16px">
   I started with the digital garden template from <a href ="https://maximevaillancourt.com/">Maxime Vaillancourt</a>.
   It is free, open-source, and <a href ="https://github.com/maximevaillancourt/digital-garden-jekyll-template">available on GitHub here</a>.
@@ -43,6 +54,6 @@ permalink: /
 
 <style>
   .wrapper {
-    max-width: 75%;
+    max-width: 100%;
   }
 </style>
