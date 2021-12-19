@@ -1,0 +1,4 @@
+- Font families for easier reading
+	- currently (since 19 dec) using:
+		- Gudea Bold for heading
+		- ~~Quicksand~~ Nunito for body...font weight 350
