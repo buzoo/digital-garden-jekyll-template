@@ -1,3 +1,6 @@
+---
+---
+
 <u>This is how I want my main page / home page / index page to look like and flow...</u>
 
 **Site title ---**

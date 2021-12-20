@@ -1,4 +1,11 @@
+---
+---
+
 - Font families for easier reading
 	- currently (since 19 dec) using:
 		- Gudea Bold for heading
 		- ~~Quicksand~~ Nunito for body...font weight 350
+- Why I chose obsidian, atom,netlify workflow.
+- Experience of lighting lamps and the excitement!
+	- Significance, benefits
+	- culture and festivals

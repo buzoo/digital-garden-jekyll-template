@@ -39,12 +39,33 @@ permalink: /
 <hr>
 
 
+
 <h1 class="heading">
-Why I am doing Digital Gardening
+  Why I am doing Digital Gardening
 </h1>
-<p>
-Content goes here
-</p>
+
+I have always wished about starting a blog to share my thoughts, ideas and learnings with everyone. I find it a comfortable medium to express myself.
+
+Some time ago I came across Digital Gardening. When I first read about it I knew that this is how I wanted to organize and share my thoughts.
+It made sense to me that my thoughts on topics need not be 'final' or absolute when I wanted to post. Digital Gardening gave me the liberty to explore and evolve. This way feels more natural. The posts can be ever-growing seeds if taken care of and nurtured.
+
+This is one of the major motivations for me to start this garden.
+
+Other reasons are much more personal. I feel an urge to share/articulate/express and I tend to choose this medium because in real life I am a very reserved/introverted person. This would help me empty my mind from time to time.
+
+<ul uk-accordion>
+  <li>
+      <a class="uk-accordion-title" href="#">What do I intend to achieve through Digital gardening?</a>
+        <div class="uk-accordion-content">
+          Objectively,
+          <ul>
+            <li>to document processes and experiences(journey) in order to help with assess and review and improve.</li>
+            <li>to create a repository of learnings and resources for reference useful to myself and anyone else who might benefit from it.</li>
+          </ul>
+        </div>
+  </li>
+</ul>
+
 
 <hr>
 <p style="font-size:16px">
