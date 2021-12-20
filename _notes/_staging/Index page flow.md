@@ -26,4 +26,4 @@ Links to about page
 sidetracks -- 
 - Site title options
 	1. Thought Bol
-- about page will contain links to my social media
+- about page will contain links to my social media, also in footer

@@ -57,7 +57,7 @@ Other reasons are more personal. I feel an urge to share/articulate/express and 
 
 <ul uk-accordion>
   <li>
-      <a class="uk-accordion-title" href="#">What do I intend to achieve through Digital gardening?</a>
+      <a class="uk-accordion-title" href="#">What I intend to achieve through Digital gardening?</a>
         <div class="uk-accordion-content">
           Objectively,
           <ul>
