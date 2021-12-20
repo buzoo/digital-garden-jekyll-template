@@ -53,7 +53,7 @@ Some time ago I came across Digital Gardening. When I first read about it I knew
 It made sense to me that my thoughts on topics need not be 'final' or absolute when I wanted to post. Digital Gardening gave me the liberty to explore and evolve. This way feels more natural. The posts can be ever-growing seeds if taken care of and nurtured. This is one of the major motivations for me to start this garden.
 </div>
 
-Other reasons are much more personal. I feel an urge to share/articulate/express and I tend to choose this medium because in real life I am a very reserved/introverted person. This would help me empty my mind from time to time.
+Other reasons are more personal. I feel an urge to share/articulate/express and I tend to choose this medium because in real life I am a very reserved/introverted person. This would help me empty my mind from time to time.
 
 <ul uk-accordion>
   <li>
