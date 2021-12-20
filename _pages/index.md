@@ -44,7 +44,9 @@ permalink: /
   Why I am doing Digital Gardening
 </h1>
 
-I have always wished about starting a blog to share my thoughts, ideas and learnings with everyone. I find it a comfortable medium to express myself.
+I have always wished about being able to share my thoughts, ideas and learnings with everyone. I find that online platforms such as blogs are a comfortable medium to express myself. However, until now I had made only unsuccessful attempts at getting a blog running.
+
+<p class="heading para-head">motivations </p>
 
 Some time ago I came across Digital Gardening. When I first read about it I knew that this is how I wanted to organize and share my thoughts.
 It made sense to me that my thoughts on topics need not be 'final' or absolute when I wanted to post. Digital Gardening gave me the liberty to explore and evolve. This way feels more natural. The posts can be ever-growing seeds if taken care of and nurtured.
